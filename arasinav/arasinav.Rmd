@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "Uluslararası mutluluk farklılıkları"
 author: 
-  - İsim Soyisim[^1]
+  - ABDULLAH BARUT[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,32 +32,26 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası, [Github Repo](https://github.com/KULLANICI_ADINIZ/REPO_ADINIZ)
+[^1]: 18080656, [Github Repo](https://github.com/Abdullahbarut/arasinav)
 
-# Vize Hakkında Önemli Bilgiler
 
-\colorbox{BurntOrange}{GITHUB REPO BAĞLANTINIZI BU DOSYANIN 35. SATIRINA YAZINIZ!}
-
-**Proje önerisi gönderimi, Github repo linki ile birlikte ekampus sistemine bir zip dosyası yüklenerek yapılacaktır. Sisteme zip dosyası yüklemezseniz ve Github repo linki vermezseniz ara sınav ve final sınavlarına girmemiş sayılırsınız.**
-
-**Proje klasörünüzü sıkıştırdıktan sonra (`YourStudentID.zip` dosyası) 16 Nisan 2023 23:59'a kadar *ekampus.ankara.edu.tr* adresine yüklemeniz gerekmektedir.**
-
-\colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
-
-
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+Mutluluk, insanların hemen hemen herkesin hayatında önemli bir yer tutar ve dünya genelinde insanların mutluluğu, birçok ülke için önemli bir hedef haline gelmiştir. Ancak tüm ülkeler aynı mutluluk seviyesine sahip değillerdir ve bazı ülkeler daha mutlu ya da daha mutsuz olarak görülmektedir. Bununla birlikte, sadece mutluluğun ölçümüne odaklanmak yeterli değildir. Ayrıca, ülkelerin ekonomik, sosyal, siyasi ve kültürel faktörlerini de değerlendirmek gerekmektedir. Örneğin, ekonomik refah, sağlık, eğitim, adalet, özgürlük ve sosyal bağlar, mutluluğu artırmak için önemli faktörler olarak kabul edilmektedir. Günlük dilde refah, mutluluk ve memnuniyet gibi anlamlara taşır ancak felsefe ve psikolojik gibi teknik bağlamlarda anlamları farklıdır. Refah kavramı ayrıca, ekonomik duruma atıftabulunmak için de kullanılır. Peki konumuzda Refah hangi analama taşır. Sosyal refah, bir kişinin yaşam kalitesini belirlemede yer alan ve nihayetinde, onu barışçıl bir varoluştan mahrum bırakmadan, barışçıl bir varoluştan zevk almasına ve sürdürmesine izin verecek olan faktörler veya unsurlar kümesini ifade eder. Bu faktörler ekonomik, sosyal ve kültürel yönleri içerir ve hemen hemen aynı şekilde etkileyecektir. Rafaha adil bir biçimde nasıl ulaşırız? Dünyanın her yerinde herkes ayırımcılık yapmadan hayata kalabilmesi için sosyal korumunda mıdır? Gördüğümüz gibi bir kaç ülkenin insanlar hayat temeli oluşturan şeylerden yoksunlar. kimi günde yemeden uyuyor kimi sağlık, eiğitm gibi konularda da yoksunlar. Bu bağlamda, "Uluslararası mutluluk farklılıkları" konumuzu, farklı ülkelerin farklı faktörlerle mutluluk seviyelerini nasıl etkilediğini ve mutluluğu artırmak için neler yapabileceğimizi anlamamıza yardımcı olacaktır.
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Dünya genelindeki ülkelerin mutluluk seviyeleri, gelir düzeyleri, eğitim seviyeleri, sağlık koşulları, sosyal faktörler, kültürel farklılıklar gibi birçok değişkeni içerir. Bu veriler, istatistiksel analiz yöntemleri kullanılarak işlenecek ve farklı ülkelerin mutluluk seviyelerini etkileyen faktörlerin belirlenmesine yardımcı olacaktır. genel olarak inanılan düşük bir gelir seviyesinin mutsuzluğa yol açacağı veya mutluluğun gelir seviyesi arttıkça aynı oranda artacağı beklentisi çalışmamızın sonucu olarak alınmıştır ki bu doğru değildir. Yüksek gelir grubuna ait ülkelerde mutluluk açısından yüksek puanlar alınamamaktadır. yoksulluk, insani gelişme, mutluluk ve bireysel refaha ilişkin verilerden hareketle yoksul ülkeler çerçevesinde ülkeler arasında yapılan karşılaştırmalar sonucunda mutluluğun tamamen yaşam kalitesine bağlı bir olgu olarak değerlendirilemeyeceği sonucuna varabiliriz. Her ülkenin benimsediği refah sistemine göre farklılık gösteren ve bireyler arasındaki ekonomik, sosyal ve cinsiyet açısından eşitsizliği gidermeyi amaçlayan bu hakların korumayı çalışan ülkeler birçoğu bu hakların en az bir tanesi için planlanan amaç açısından benzerlik göstermektedir. Bu haklar ayrım gözetilmeksizin herkes için geçerli olması gerekir.
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+Daha İyi Yaşam için, vatandaşların toplumların refahını ölçme konusundaki tar- tışmalara katılmayı ve tüm yaşamlarımızı şekillendiren politika oluşturma sürecine daha bilinç- li ve daha aktif olmalarını sağlamayı amaçlamaktadır. Özellikle 2000’li yıllarda refahı sadece gelir ile tanımlamak bireylerin, toplumların ve hatta ülkelerin refahlarının iyi olduğunu gös- termemektedir. Bu sebeple refahı daha kapsamlı ele alan bu endeks, bireylerin hangi alanlarda daha mutlu olduğunu ele almaktadır. Bu endeks ile ülkeler geride kaldıkları kriterler konusun- da politika üretebilmekte ve bireylerin refahlarını maksimum kılacak uygulamaları yürürlüğe koyabilmektedir. 
+
+Çalışmaların çoğu ailelere ve bireylere odaklanmış ve kadının rolünü görünmez kılmıştır. Ama bu her devlet için geçerli değil. Libral rejimler hizmet sunumunu piyasaya bırakarak cinsiyet ilişkilerine kayıtsız kalmaktadır [@wolff1992changing]. Bir deneyde, Çocuklu çiftlerden oluşan benzersiz bir örneklem kullanarak, boşanmış bireyler,evlilikten ayrıldıktan sonra ekonomik refahtaki cinsiyet farkını tahmin ediyor. Ayırılmadanönce çalışanlar boşandıklarında daha az cinsiyet farkı gördüğünu söyler [@kuhn2020income]. Yaşam memnuniyeti hane halkı gelirinin, yaşın, cinsiyetin, işgücü durumu ve eğitim durumunun bir fonksiyonu olarak gösterilebilir.
+
+Ayrıca bireyin sağlık durumu, kentsel farklıkla, bireyin yaşadığı döneme göre hayata bakış açıları ve umutları mutluluğu açıklamada kullanılabilmektedir [@kahyaouglu2008yacsam]. Bir ekonomideki bütün kişiler yaşamları boyunca üretim sürecine emek, sermaye veya servetleriyle katılarak yaşamlarını sürdürmek için yeterli bir gelir sağlamak durumunda olmayabilirler. Hastalık, sakatlık, yaşlılık, işsizlik gibi nedenlerle yeterli bir gelir elde edilemeyebilir ve yeterli servet stoklarına sahip olunamayabilir. Bu nedenle devlet kendi kusurları olmaksızın geçimlerini tamamen ya da kısmen sağlayamayanların yeterli bir gelire kavuşmalarını mümkün kılan yeniden dağılım tedbirlerini almak zorundadır. Ekonomik süreç içerisinde fonksiyonel gelir dağılımı ile ilk olarak ortaya çıkan gelir brüt gelirdir. Bunların sağlandığı zaman yaşam memnuniyet oranları artacaktır.
+
+Kapitalist sistemin ortaya çıkardığı bir sorun olan gelir eşitsizliği, kimi zaman muhtaç durumda kalmaya kadar varabilmektedir. Refah devleti, söz konusu eşitsizliği gidermek ve insanlara onurlu bir yaşam sağlamak amacıyla ortaya çıkmıştır. Refah devleti, muhtaç durumda kalan vatandaşlara en azından asgari yaşam seviyesi temin etmek ve sosyal adaleti sağlamak amacıyla devletin müdahalesini gerekli kılmaktadır. Dar anlamda sosyal refah devleti uygulamalarına tüm ülkelerde rastlamak mümkünken, geniş anlamda sosyal refah devleti uygulamaları ise daha kapsamlı ve geniş kaynaklar aktarılmış bir sistemi gerekli kılmaktadır. Bu bağlamda, hazırlanan bu çalışmada Türkiye’nin refah devleti uygulamalarının kapsamı ve etkinliği ortaya konmaya çalışılmış ve mevcut eksikliklerin kaynağı ile yapılması planlanan gelişmeler açıklanmaya çalışılmıştır [@rakici2011refah].
 
 
-**_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
 
 \newpage
 # Kaynakça {#references}
